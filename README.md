@@ -5,7 +5,7 @@
 </h1>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTUxYmZiYjMwOWQ1ZGI3MDU3Y2EwMzE3MmVmNWNkMDE4NjcwY2Y2OSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/l46Cy1rHbQ92uuLXa/giphy.gif" width="450" height="300"/>
+  <img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="600" height="350"/>
 </div>
 
 ## :man_technologist: About Me :
