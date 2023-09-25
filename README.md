@@ -1,8 +1,3 @@
-<div id="header" align="center">
-<h1>
-  Hi there!
-</h1>
-</div>
 
 ## :man_technologist: About Me :
 20 y.o., ITMO university, Computer Technologies Department, 3rd year. <a href=https://github.com/vbandurin7/vbandurin7/blob/main/cv.pdf><b>CV</b></a>
