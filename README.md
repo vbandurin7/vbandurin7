@@ -1,6 +1,6 @@
 
 ## :man_technologist: About Me :
-20 y.o., ITMO university, Computer Technologies Department, 3rd year. <a href=https://github.com/vbandurin7/vbandurin7/blob/main/cv.pdf><b>CV</b></a>
+21 y.o., ITMO university, Computer Technologies Department, 3rd year. <a href=https://github.com/vbandurin7/vbandurin7/blob/main/cv.pdf><b>CV</b></a>
 
 ## :computer: Technology stack:
 <div>
