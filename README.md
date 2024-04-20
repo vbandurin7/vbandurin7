@@ -1,15 +1,6 @@
-<div id="header" align="center">
-<h1>
-  Hi there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-</div>
-<div align="center">
-  <img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="600" height="350"/>
-</div>
 
 ## :man_technologist: About Me :
-20 y.o., ITMO university, Computer Technologies Department, 2nd year. <a href=https://github.com/vbandurin7/CV/blob/main/cv.pdf><b>CV</b></a>
+21 y.o., ITMO university, Computer Technologies Department, 3rd year. <a href=https://github.com/vbandurin7/vbandurin7/blob/main/cv.pdf><b>CV</b></a>
 
 ## :computer: Technology stack:
 <div>
